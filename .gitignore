@@ -1,0 +1,21 @@
+# Python
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+
+# Data files (keep locally, not on GitHub)
+backend/data/*.json
+backend/music/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+frontend/.env.production    
+
+# Virtual environment
+backend/venv/
+backend/.venv/
+venv/
+.venv/
